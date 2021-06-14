@@ -2,6 +2,8 @@
 
 Pequeno gerador de senhas construído em python para aprender sobre o PySimpleGUI, um framework para interfaces gráficas com python.
 
+![](https://i.imgur.com/MsDotd6.png)
+
 ## Instalação
 
 Clone o repositório e ative o ambiente virtual do python, após isso realize a instalação da dependência que se encontra no requirements.txt, segue o passo a passo com os comandos necessários:
